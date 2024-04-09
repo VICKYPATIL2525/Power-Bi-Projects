@@ -79,4 +79,4 @@ Customer Satisfaction Analysis: Understand customer sentiments and satisfaction 
 ![Screenshot (5)](https://github.com/VICKYPATIL2525/Power-Bi-Projects/assets/124050367/d413a03a-58a0-4987-a387-650eda54c133)
 
 # Note :-
-### I have given the link of this dashboard in the same repository you can download and see it.
+### I have given the dashboard in the same repository you can download and see it.
